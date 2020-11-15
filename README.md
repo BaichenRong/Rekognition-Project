@@ -65,4 +65,5 @@ Easily use service provided by Seaborn and Matplot to generate various visualiza
 * [Amazon Sagemaker](https://aws.amazon.com/sagemaker/)
   * using jupyter Notebook to deploy Rekogntion and other Python utilizations
   
-## Package Using in Python
+## Package Using in Python by Jupyter Notebook
+[package](./example/package)
