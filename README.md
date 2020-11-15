@@ -55,3 +55,10 @@ Easily use service provided by Seaborn and Matplot to generate various visualiza
   * Intelligent - Tiering
   * Transfer acceleration
 * [Amazon Sagemaker](https://aws.amazon.com/sagemaker/pricing/)
+
+## Resources
+* [Amazon S3](https://aws.amazon.com/s3/) Buckets (x2)
+  * a web bucket to host the web application
+  * a source bucket to store images for training data, images for analysis, and dataset manifests
+* [Amazon Rekognition](https://aws.amazon.com/rekognition/)
+  * a Custom Labels Project is created during the stack creation. The Project is then used to train your own model and run inference endpoint
