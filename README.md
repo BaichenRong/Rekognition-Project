@@ -48,3 +48,6 @@ We can see the built in Rekogntion Service succesfully capture and detect elemen
 ## Sample of Analysis and Visualization
 Easily use service provided by Seaborn and Matplot to generate various visualization such as scatterplot and bar plot. Use different stats function to generate correlation and linera regression
 ![picture](./example/analysis.png)
+
+## Cost Estimation
+| Training (prep) | Amazon S3 Storage | $0.023 per GB / Month | 4GB | $0.092 | **Per Month cost** |
