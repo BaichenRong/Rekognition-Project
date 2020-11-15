@@ -13,7 +13,7 @@ Have a look at the S3 Bucket Service provided by cloud storage from AWS
 Click upload to upload any pictures to the Bucket
 ![upload](./example/upload.png)
 
-We can see address that can be provided to the Rekognition Service for detection
+We can see address showed in the details panel that can be provided to the Rekognition Service for detection
 ![S3](./example/S3.png)
 
 ## Example of detection
