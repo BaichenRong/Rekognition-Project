@@ -26,4 +26,5 @@ Third is to display the detected labels
 We can see the built in Rekogntion Service succesfully capture and detect elements in the picture
 
 ## Sample of Analysis and Visualization
+Easily use service provided by Seaborn and Matplot to generate various visualization such as scatterplot and bar plot. Use different stats function to generate correlation and linera regression
 ![picture](./example/analysis.png)
