@@ -8,3 +8,5 @@ We collected 9 expensive Houses ranged from 1 million to 2 million dollars in th
 
 ## Example of detection
 ![example](./example/example.png)
+
+We can see the built in Rekogntion Service succesfully capture and detect elements in the picture
