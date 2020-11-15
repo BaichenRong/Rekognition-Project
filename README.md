@@ -67,3 +67,8 @@ Easily use service provided by Seaborn and Matplot to generate various visualiza
   
 ## Package Using in Python by Jupyter Notebook
 ![package](./example/package.png)
+
+## Contributor to this Demo walkthrough
+Baichen Rong
+Jason Gao
+Shah Jash
