@@ -3,4 +3,5 @@ This project utilized Rekognition and various Python visualization and statistic
 
 ## Architecture and explanation
 ![Architecture](./Diagram.png)
+
 We collected 9 expensive Houses ranged from 1 million to 2 million dollars in the website [LianJia](https://bj.lianjia.com/), the largest second-hand trade platform in China. There are also websites that can be accessed to created similar analysis such as [Zillow](https://www.zillow.com/) and [Trulia](https://www.trulia.com/).
