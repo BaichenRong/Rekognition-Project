@@ -50,4 +50,8 @@ Easily use service provided by Seaborn and Matplot to generate various visualiza
 ![picture](./example/analysis.png)
 
 ## Cost Estimation
-| Training (prep) | Amazon S3 Storage | $0.023 per GB / Month | 4GB | $0.092 | **Per Month cost** |
+* [Amazon Rekognition Image - Labels Detection](https://aws.amazon.com/rekognition/pricing/)
+* [Amazon S3](https://aws.amazon.com/s3/pricing/)
+  * Intelligent - Tiering
+  * Transfer acceleration
+* [Amazon Sagemaker](https://aws.amazon.com/sagemaker/pricing/)
