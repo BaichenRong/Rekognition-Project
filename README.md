@@ -8,6 +8,11 @@ We collected 9 expensive Houses ranged from 1 million to 2 million dollars in th
 
 ## Customizing Solutions
 
+### Amazon Sagemaker
+
+Amazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning (ML) models quickly.
+
+SageMaker removes the heavy lifting from each step of the machine learning process to make it easier to develop high quality models.
 
 ### Amazon S3 Bucket
 
