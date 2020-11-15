@@ -70,5 +70,7 @@ Easily use service provided by Seaborn and Matplot to generate various visualiza
 
 ## Contributor to this Demo walkthrough
 Baichen Rong
+
 Jason Gao
+
 Shah Jash
