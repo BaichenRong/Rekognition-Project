@@ -8,7 +8,7 @@ We collected 9 expensive Houses ranged from 1 million to 2 million dollars in th
 
 ## S3 bucket 
 Have a look at the S3 Bucket Service provided by cloud storage from AWS
-![jap](./exmaple/bucket.png)
+![bucket](./exmaple/bucket.png)
 
 Click upload to upload any pictures to the Bucket
 ![upload](./example/upload.png)
