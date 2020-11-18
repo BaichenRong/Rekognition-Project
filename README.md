@@ -3,7 +3,7 @@ This project utilized Rekognition and various Python visualization and statistic
 
 
 ## Project Link
-[Project Link](https://beijinghousingprice.s3.amazonaws.com/Napolis_final.html)
+[Sample Project Link](https://beijinghousingprice.s3.amazonaws.com/Napolis_final.html)
 
 
 ## Architecture and explanation
