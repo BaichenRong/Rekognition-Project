@@ -1,6 +1,11 @@
 # Rekognition-Project on detecting common traits in Expensive Houses
 This project utilized Rekognition and various Python visualization and statistic methods to observe and measure common traits among the Expensive Houses. It uses built-in python [Amazon Rekognition Labels Detection](https://docs.aws.amazon.com/rekognition/latest/dg/labels.html) to identify which labels are frequently exists in these expensive houses and how the confidence level of these label can in fact tell the observer any information related to the housing price.
 
+
+## Project Link
+[Project Link](https://beijinghousingprice.s3.amazonaws.com/Napolis_final.html)
+
+
 ## Architecture and explanation
 ![Architecture](./Diagram.png)
 
